@@ -9,10 +9,21 @@ class Developer {
     greet() {
         console.log(`Hello, my name is ${this.name}, I'm a ${this.role}. Nice to meet you! :)`);
     }
+    
+    learn(programmingLanguage) {
+        console.log(`Learning $(programmingLanguage) is so much fun!`);
+    }
 }
 
 const me = new Developer();
-me.geet();
+
+if(visitor) {
+    me.geet();    
+} else {
+    me.learn('JavaScript');
+}
+
+
 ```
 ---
 
@@ -64,7 +75,7 @@ me.geet();
 <a href="https://www.linkedin.com/in/dennis-ammen-6574a723b">
   <img align="left" alt="LinkedIn" width="40px" src="https://github.com/Reaper922/Reaper922/blob/main/images/linkedin.png" />
 </a>
-<a href="https://www.xing.com/profile/Dennis_Ammen">
+<a href="https://www.xing.com/profile/Dennis_Ammen/cv">
   <img align="left" alt="Xing" width="40px" src="https://github.com/Reaper922/Reaper922/blob/main/images/xing.png" />
 </a>
 
