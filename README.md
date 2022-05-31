@@ -2,7 +2,7 @@
 class Developer {
     constructor() {
         this.name = "Dennis";
-        this.role = "Webdeveloper";
+        this.role = "Frontend Webdeveloper";
         this.languages = ["de", "en"];
     }
     
