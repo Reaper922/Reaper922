@@ -11,14 +11,14 @@ class Developer {
     }
     
     learn(programmingLanguage) {
-        console.log(`Learning $(programmingLanguage) is so much fun!`);
+        console.log(`I'm currently learning ${programmingLanguage}. It is so much fun!`);
     }
 }
 
 const me = new Developer();
 
 if(visitor) {
-    me.geet();    
+    me.greet();    
 } else {
     me.learn('JavaScript');
 }
