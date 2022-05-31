@@ -18,30 +18,56 @@ me.geet();
 
 ### 🛠 Tech Stack
 <!-- languages -->
-<a href="" target="_blank"> 
-<img align="left" src="" alt="" width="26px" />
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/html.png" alt="HTML" width="60px" />
+</a>
+
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/css.png" alt="CSS" width="60px" />
+</a>
+
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/javascript.png" alt="JavaScript" width="60px" />
+</a>
+
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/bootstrap.png" alt="Bootstrap" width="60px" />
+</a>
+
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/node.png" alt="Node JS" width="60px" />
+</a>
+
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/python.png" alt="Python" width="60px" />
 </a>
 
 <!-- tools -->
-<a href="" target="_blank"> 
-<img align="left" src="" alt="" width="28px" />
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/visual-studio-code.png" alt="VS Code" width="60px" />
 </a>
 
-<br />
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/git.png?raw=true" alt="Git" width="60px" />
+</a>
+
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/figma.png" alt="Figma" width="60px" />
+</a>
+
+<br/><br/><br/>
 
 ---
 
 ### 📫 Let's Connect
 
-<a href="">
-  <img align="left" alt="LinkedIn" width="24px" src="" />
+<a href="https://www.linkedin.com/in/dennis-ammen-6574a723b">
+  <img align="left" alt="LinkedIn" width="40px" src="https://github.com/Reaper922/Reaper922/blob/main/images/linkedin.png" />
 </a>
-<a href="">
-  <img align="left" alt="Xing" width="24px" src="" />
+<a href="https://www.xing.com/profile/Dennis_Ammen">
+  <img align="left" alt="Xing" width="40px" src="https://github.com/Reaper922/Reaper922/blob/main/images/xing.png" />
 </a>
-<a href="">
-  <img align="left" alt="" width="24px" src="" />
-</a>
+
 
 
 <!--
