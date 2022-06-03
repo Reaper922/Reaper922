@@ -17,7 +17,7 @@ class Developer {
 
 const me = new Developer();
 
-if(visitor) {
+if(youCanReadThis) {
     me.greet();    
 } else {
     me.learn('JavaScript');
@@ -25,6 +25,10 @@ if(visitor) {
 
 
 ```
+---
+
+##Pain of discipline < Pain of regret.
+
 ---
 
 ### 🛠 Tech Stack
