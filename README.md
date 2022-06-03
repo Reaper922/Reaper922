@@ -27,7 +27,7 @@ if(youCanReadThis) {
 ```
 ---
 
-##Pain of discipline < Pain of regret.
+## Pain of discipline < Pain of regret.
 
 ---
 
