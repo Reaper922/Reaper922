@@ -25,14 +25,15 @@ if(youCanReadThis) {
 
 
 ```
----
 
-## Pain of discipline < Pain of regret.
-
-## “To live is to risk it all, otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.”
-— Rick Sanchez
-
----
+<hr>
+<br>
+<p><b>Pain of discipline < Pain of regret.<b></p>
+<br>
+<p><b>“To live is to risk it all, otherwise you're just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.”<br>
+— Rick Sanchez<b></p>
+<br>
+<hr>
 
 ### 🛠 Tech Stack
 <!-- languages -->
