@@ -37,9 +37,9 @@ if(youCanReadThis) {
 
 ### 🛠 Tech Stack
 <!-- languages --> 
-![](https://github.com/Reaper922/Reaper922/blob/main/images/html.png "Text to show on mouseover"){widt=60px; height=60px}
-![](https://github.com/Reaper922/Reaper922/blob/main/images/css.png "Text to show on mouseover"){widt=60px; height=60px}
-![](https://github.com/Reaper922/Reaper922/blob/main/images/javascript.png "Text to show on mouseover"){widt=60px; height=60px}
+![](https://github.com/Reaper922/Reaper922/blob/main/images/html.png "Text to show on mouseover"){width=60px; height=60px}
+![](https://github.com/Reaper922/Reaper922/blob/main/images/css.png "Text to show on mouseover"){width=60px; height=60px}
+![](https://github.com/Reaper922/Reaper922/blob/main/images/javascript.png "Text to show on mouseover"){width=60px; height=60px}
 <div>
     <img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/html.png" alt="HTML" width="60px" draggable="false"/>
     <img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/css.png" alt="CSS" width="60px" draggable="false"/>
