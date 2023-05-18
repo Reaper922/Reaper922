@@ -52,6 +52,14 @@ if(youCanReadThis) {
 <a href="https://github.com/Reaper922" target="_blank"> 
 <img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/bootstrap.png" alt="Bootstrap" width="60px" />
 </a>
+    
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/angular.png" alt="Angular" width="60px" />
+</a>
+
+<a href="https://github.com/Reaper922" target="_blank"> 
+<img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/react.png" alt="React" width="60px" />
+</a>
 
 <a href="https://github.com/Reaper922" target="_blank"> 
 <img align="left" src="https://github.com/Reaper922/Reaper922/blob/main/images/node.png" alt="Node JS" width="60px" />
