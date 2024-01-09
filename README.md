@@ -2,7 +2,7 @@
 class Developer {
     constructor() {
         this.name = "Dennis";
-        this.role = "Frontend Webdeveloper";
+        this.role = "Fullstack Developer";
         this.languages = ["de", "en"];
     }
     
@@ -20,7 +20,7 @@ const me = new Developer();
 if(youCanReadThis) {
     me.greet();    
 } else {
-    me.learn('JavaScript');
+    me.learn('C#');
 }
 
 
